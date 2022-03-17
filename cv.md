@@ -1,5 +1,7 @@
 Konstantin Glushenkov
 
+https://raw.githubusercontent.com/KostyaLibertine/rsschool-cv/gh-pages/IMG_20210623_122411_012.jpg
+
 Address: Minsk, Belarus
 Date of birth: 1993.11.12
 Phone number: +375293871668
@@ -9,7 +11,10 @@ Discord: KostyaLibertine#1042
 Rolling Scopes School student (JS/FE 2022Q1), want to become a JavaScript junior developer for working remotely.
 Able to successfully prioritize a big pile of things, have a built-in burnout protection and good opportunistic skills.
 
-(code example)
+Code example:
+function multiply(a, b) {
+ return a * b;
+}
 
 Projects:
 CV https://github.com/KostyaLibertine/rsschool-cv

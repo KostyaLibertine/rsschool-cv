@@ -14,7 +14,7 @@ body {
 
 #page-wrap {
     width: 800px;
-    margin: 40px auto;
+    margin: 40px auto 10px;
 }
 
 #pic {
@@ -27,7 +27,7 @@ h1 {
     padding: 0 0 16px 0;
     font-size: 42px;
     font-weight: bold;
-    border-bottom: 2px solid #999;
+    border-bottom: 1px solid #666;
 }
 
 h2 {
@@ -43,7 +43,7 @@ h2 span {
     font-style: italic;
     font-family: Georgia, Serif;
     font-size: 16px;
-    color: #999;
+    color: #666;
     font-weight: normal;
 }
 
@@ -52,18 +52,24 @@ p {
 }
 
 a {
-    color: #999;
+    color: #666;
     text-decoration: none;
-    border-bottom: 1px dotted #999;
 }
 
-a:hover {
-    border-bottom-style: solid;
-    color: black;
+.vcard {
+    list-style-type: none;
+}
+
+.contact-not-link {
+    color: #666;
 }
 
 ul {
     margin: 0 0 32px 17px;
+}
+
+.ul-dot {
+    list-style-type: "\>  ";
 }
 
 #objective {
@@ -84,7 +90,7 @@ dt {
     padding: 0 26px 0 0;
     width: 150px;
     float: left;
-    border-right: 1px solid #999;
+    border-right: 1px solid #666;
 }
 
 dd {
@@ -96,4 +102,36 @@ dd.clear {
     float: none;
     margin: 0;
     height: 15px;
+}
+
+footer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 5%;
+    border-top: 1px solid #666;
+    margin: 16px 0 0 0;
+    padding: 26px 0 0 0;
+}
+
+.rsslogo {
+    height: 30px;
+}
+
+.menu {
+    display: flex;
+    flex-direction: row;
+    list-style-type: none;
+}
+
+.menu-item {
+    margin: 0 50px;
+}
+
+.copy {
+    font-style: italic;
+    font-family: Georgia, Serif;
+    font-size: 16px;
+    color: #666;
+    font-weight: normal;
 }

@@ -72,6 +72,10 @@ ul {
     list-style-type: "\>  ";
 }
 
+code {
+    color: #666;
+}
+
 #objective {
     width: 500px;
 }

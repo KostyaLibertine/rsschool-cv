@@ -4,6 +4,7 @@
 - Date of birth: 1993.11.12
 - Phone number: +375293871668
 - Email address: kostyalibertine@gmail.com
+- Telegram: https://t.me/KostyaLibertine
 - Discord: KostyaLibertine#1042
 
 ![photo](https://raw.githubusercontent.com/KostyaLibertine/rsschool-cv/gh-pages/IMG_20210623_122411_012.jpg)
